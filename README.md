@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-Javier helped with this code, i 
+Javier helped with this code, i forgot to add the second element
 
 # Iterate through the contact_info_df and convert each row to a dictionary.
 import json
@@ -10,5 +10,4 @@ for index,row in contact_info_df.iterrows():
     json_list = [x for y,x in json_data.items()]
     dict_values.append(json_list)
 
-# Print out the list of dictionaries
 print(dict_values)
