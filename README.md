@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-Javier helped with this code, i forgot to add the second element
+Javier helped with this code, i forgot to add the key (y) to correspond with the value (x)
 
 #Iterate through the contact_info_df and convert each row to a dictionary.
 import json
