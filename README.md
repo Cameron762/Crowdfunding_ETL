@@ -12,5 +12,5 @@ for index,row in contact_info_df.iterrows():
 
 print(dict_values)
 
-# Contributors:
+# Group Members:
 Cameron Carson
