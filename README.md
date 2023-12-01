@@ -11,3 +11,6 @@ for index,row in contact_info_df.iterrows():
     dict_values.append(json_list)
 
 print(dict_values)
+
+# Contributors:
+Cameron Carson
