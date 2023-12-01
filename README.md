@@ -2,7 +2,7 @@
 
 Javier helped with this code, i forgot to add the second element
 
-# Iterate through the contact_info_df and convert each row to a dictionary.
+# **Iterate through the contact_info_df and convert each row to a dictionary.**
 import json
 dict_values = []
 for index,row in contact_info_df.iterrows():
